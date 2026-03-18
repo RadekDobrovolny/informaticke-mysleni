@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f45afe66-f138-4518-966b-6855ebcf2588" name="Changes" comment="" />
+    <list default="true" id="f45afe66-f138-4518-966b-6855ebcf2588" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides.md" beforeDir="false" afterPath="$PROJECT_DIR$/workshopy/microbit/slides.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/workshopy/microbit/slides/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/_redirects" beforeDir="false" afterPath="$PROJECT_DIR$/workshopy/microbit/slides/_redirects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/index-CdWuLQFt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-2TL4E9Ly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-DNWfllMZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-DcbUEulp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-_2lYFdk_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/modules/shiki-CdzaCs50.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/modules/unplugin-icons-CnCNHjJ8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/modules/vue-CA2rmDoU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/404-CYwM9fLC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingControls-BsRSPYJG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingControls.vue_vue_type_style_index_0_lang-C0k8oMi6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingLayer-DqhTxyst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/IconButton.vue_vue_type_script_setup_true_lang-BlBl7ceU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/Modal.vue_vue_type_script_setup_true_lang-BltlXyHl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/NoteDisplay.vue_vue_type_style_index_0_lang-C_O9Tt0H.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/SlideWrapper-BQzFI-lK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/TimerBar.vue_vue_type_script_setup_true_lang-KHs-YSvu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/context-DlNAjefG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/default-BECatFk5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/entry-C2LjvQUA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/md-ymdBs7xH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/notes-Bu7ig6SM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/notes-edit-YQUG8R4x.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/overview-BrdJbZKZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/play-DWUthqTn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/presenter-DK9fbJRy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/shortcuts-C1etH-LK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/useSlideInfo-B24XLPMW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/workshopy/microbit/slides/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771535269808</updated>
       <workItem from="1771535270967" duration="6650000" />
-      <workItem from="1773844444168" duration="3333000" />
+      <workItem from="1773844444168" duration="3981000" />
     </task>
     <servers />
   </component>

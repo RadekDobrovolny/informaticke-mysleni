@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev:microbit": "slidev workshopy/microbit/slides.md",
-    "build:microbit": "slidev build workshopy/microbit/slides.md --base /workshopy/microbit/slides/ --out slides"
+    "build:microbit": "slidev build workshopy/microbit/slides.md --base ./ --out slides"
   },
   "devDependencies": {
     "@slidev/cli": "^52.4.1",

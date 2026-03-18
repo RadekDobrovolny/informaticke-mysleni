@@ -2,6 +2,7 @@
 theme: default
 title: Workshop micro:bit
 info: Materiály k workshopu micro:bit
+routerMode: hash
 ---
 
 # Workshop micro:bit
