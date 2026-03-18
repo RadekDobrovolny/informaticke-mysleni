@@ -1,0 +1,18 @@
+.slidev-layout {
+  background:
+    radial-gradient(circle at 8% 12%, rgba(251, 191, 36, 0.18), transparent 34%),
+    radial-gradient(circle at 88% 14%, rgba(249, 115, 22, 0.14), transparent 32%),
+    radial-gradient(circle at 84% 86%, rgba(244, 114, 182, 0.12), transparent 30%),
+    linear-gradient(160deg, #fff8ef 0%, #fdf2e8 44%, #f8e7d9 100%);
+  color: #1f2937;
+}
+
+.slidev-layout h1,
+.slidev-layout h2,
+.slidev-layout h3 {
+  color: #7c2d12;
+}
+
+.slidev-layout strong {
+  color: #9a3412;
+}

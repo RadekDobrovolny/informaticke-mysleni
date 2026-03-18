@@ -6,39 +6,33 @@
   <component name="ChangeListManager">
     <list default="true" id="f45afe66-f138-4518-966b-6855ebcf2588" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides.md" beforeDir="false" afterPath="$PROJECT_DIR$/workshopy/microbit/slides.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/workshopy/microbit/slides/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/_redirects" beforeDir="false" afterPath="$PROJECT_DIR$/workshopy/microbit/slides/_redirects" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/index-CdWuLQFt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-2TL4E9Ly.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-DNWfllMZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-DcbUEulp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-_2lYFdk_.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/modules/shiki-CdzaCs50.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/modules/unplugin-icons-CnCNHjJ8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/modules/vue-CA2rmDoU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/404-CYwM9fLC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingControls-BsRSPYJG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingControls.vue_vue_type_style_index_0_lang-C0k8oMi6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingLayer-DqhTxyst.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/IconButton.vue_vue_type_script_setup_true_lang-BlBl7ceU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/Modal.vue_vue_type_script_setup_true_lang-BltlXyHl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/NoteDisplay.vue_vue_type_style_index_0_lang-C_O9Tt0H.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/SlideWrapper-BQzFI-lK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/TimerBar.vue_vue_type_script_setup_true_lang-KHs-YSvu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/context-DlNAjefG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/default-BECatFk5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/entry-C2LjvQUA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/md-ymdBs7xH.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/notes-Bu7ig6SM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/notes-edit-YQUG8R4x.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/overview-BrdJbZKZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/play-DWUthqTn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/presenter-DK9fbJRy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/shortcuts-C1etH-LK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/useSlideInfo-B24XLPMW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/SlideWrapper-CWueyQwl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/index-BnwThX76.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/index-DsMt0OaB.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-BVMM7uPd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-DCHHLLhW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-DcVMyoip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/md-u4LUYBNL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/404-Dm3PIQfr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingControls-C3_ESnXo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingControls.vue_vue_type_style_index_0_lang-CgiI6v0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/DrawingLayer-lAk5v_13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/NoteDisplay.vue_vue_type_style_index_0_lang-J01o2cIR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/SlideWrapper-DY0683zj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/TimerBar.vue_vue_type_script_setup_true_lang-C31dK4BS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/context-Ckye3k_9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/default-TZ3SLz5V.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/entry-D7q6UO2B.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/md-rMDPIqQK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/notes-BrDiudfN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/notes-edit-CVOb_QZz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/overview-CtkuCyH-.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/play-CA3znLNW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/presenter-Dbd5xl29.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/shortcuts-BD_UPELw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/assets/slidev/useSlideInfo-CcHyl7KK.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workshopy/microbit/slides/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/workshopy/microbit/slides/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,31 +64,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/radekdobrovolny/Devel/radek/informaticke-mysleni&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.anthropic.code.plugin.settings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/radekdobrovolny/Devel/radek/informaticke-mysleni",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.anthropic.code.plugin.settings",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Applications/PyCharm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -111,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771535269808</updated>
       <workItem from="1771535270967" duration="6650000" />
-      <workItem from="1773844444168" duration="3981000" />
+      <workItem from="1773844444168" duration="5282000" />
     </task>
     <servers />
   </component>

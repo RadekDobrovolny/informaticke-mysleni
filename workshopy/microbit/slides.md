@@ -5,7 +5,11 @@ info: Materiály k workshopu micro:bit
 routerMode: hash
 ---
 
-# Workshop micro:bit
+## workshop
+
+# **micro:bit za 2 hodiny**
+
+## FF MUNI, 19. 3. 2026
 
 Radek Dobrovolný
 
