@@ -3,44 +3,186 @@ theme: default
 title: Workshop micro:bit
 info: Materiály k workshopu micro:bit
 routerMode: hash
+layout: cover
 ---
 
+# micro:bit — designerské minimum
+
 ## workshop
-
-# **micro:bit za 2 hodiny**
-
 ## FF MUNI, 19. 3. 2026
 
 Radek Dobrovolný
 
 ---
+layout: default
+---
 
-## Cíl workshopu
+## Ahoj, já jsem Radek
 
-- Pochopit základy práce s micro:bitem
-- Vytvořit první jednoduchý program
-- Přenést program do zařízení a vyzkoušet ho v praxi
+- **programátor**, software engineer
+- lektor, designer
+- na KISKu učím **FF: ISKB63 Informatické myšlení**
+- AI nástroje v programování
+- občas něco ubastlím
+- starám se **o les**
 
 ---
 
-## Co budeme potřebovat
+## Cíle workshopu
 
-- micro:bit (v2)
-- USB kabel
-- Počítač s přístupem na internet
-- MakeCode editor
+- Seznámit se s pojmem **fyzické programování**
+- Představit **micro:bit** a jeho možnosti
+- Osahat si **micro:bit**
+- Vyzkoušet si první program
+- Promyslet potenciál
+- Vibecoding s **micro:bitem**
+
+---
+layout: image-right
+image: ./img/robot.png
+backgroundSize: contain
+---
+
+## Fyzické programování
+
+*Programování, které opouští obrazovku*
+
+- physical computing
+- světla, senzory, teploty
+- makerství, bastlení
+- roboti!
+- automatizace, chytrá domáctnost
+- interaktivní umění
 
 ---
 
-## První program
+## micro:bit
 
-1. Otevřít [makecode.microbit.org](https://makecode.microbit.org)
-2. Vytvořit nový projekt
-3. Přidat blok pro zobrazení ikonky na LED displeji
-4. Nahrát program do zařízení
+- micro:bit vznikl ve Velké Británii jako vzdělávací projekt pro výuku programování
+- první verze **micro:bit v1** byla uvedena v roce **2015**
+- cílem bylo dostat jednoduchý programovatelný hardware mezi žáky a učitele
+- micro:bit se rychle rozšířil i mimo školy — do kroužků, workshopů a makerské komunity
+- verze **v1** obsahovala základní výbavu: LED displej, tlačítka, akcelerometr, kompas a Bluetooth
+- verze **v2** (od roku **2020**) přidala mimo jiné **mikrofon, reproduktor a dotykové logo**
+
+---
+layout: image-right
+image: ./img/microbit.png
+backgroundSize: contain
+---
+
+## Úkol 1: demo time
+
+- **micro:bit** deska
+- **USB kabel** pro připojení k počítači
+- **držák na baterie**
+- **2× AAA baterie**
+#
+- vložte baterie do držáku a zapněte micro:bit
+- reset / smazat
+
+---
+layout: two-cols-header
+---
+
+## Vstupy a výstupy micro:bitu
+
+::left::
+
+### **Vstupy**
+- tlačítko **A**
+- tlačítko **B**
+- **pohyb / zatřesení** (akcelerometr)
+- **natočení** a směr (kompas)
+- **teplota**
+- **světlo** *(orientačně přes LED matici)*
+- **dotykové logo** (v2)
+- **zvuk / hlasitost** (mikrofon, v2)
+
+::right::
+
+### **Výstupy**
+- **LED displej 5×5**
+- **zvuk** (reproduktor, v2)
+- signál přes **rádio / Bluetooth**
+- reakce na pinech (např. rozsvícení LED, ovládání dalších komponent, roboti!)
+
+---
+layout: default
+---
+
+## MakeCode: programování pomocí bloků
+
+https://makecode.microbit.org/
+
+- integrované vývojové prostředí
+- nahrání programu do zařízení
+- tutorialy
+- projekty
 
 ---
 
-## Díky
+## Úkol 2: tutoriál Pulzující srdce
 
-Dotazy a další materiály najdete v tomto repozitáři.
+- otevřete tutorial
+- zvolte možnost bloky
+- projděte tutorial do konce
+- nahrajte program
+
+---
+
+## Úkol 3: nahrátí hotového programu
+
+- Examples
+- Funny Voice Recorder
+- nahrajte program
+
+---
+
+## Úkol 4: naprogramujte hrací kostku
+
+- vytvořte program, který po **zatřesení micro:bitem** vygeneruje číslo **1 až 6**
+- výsledek zobrazte na **LED displeji**
+- můžete zobrazit:
+  - buď přímo číslo (snazší)
+  - nebo tečky jako na skutečné kostce
+
+---
+
+## Python
+
+https://python.microbit.org/
+
+- integrované vývojové prostředí
+- nahrání programu do zařízení
+- Python
+
+---
+
+## vibecoding
+
+- Visual Studio Code
+- Codex / Copilot
+
+---
+
+## Úkol 5: brainstorming
+
+- v kontextu vaší předchozí práce v předmětu
+- přemýšlejte nad využitím **micro:bitu** jako o fyzickém artefaktu
+- jak ho zapojit?
+- více se vymýšlejte, než designujte (na to bude čas později)
+
+---
+
+## Úkol 6: vibecoding
+
+- krok za krokem
+- zkusme vytvořit nějaký fundament
+- pravidelně testujte funkčnost
+
+---
+layout: end
+---
+
+## Díky za pozornost!
