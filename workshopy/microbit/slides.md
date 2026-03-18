@@ -67,6 +67,18 @@ backgroundSize: contain
 
 ---
 layout: image-right
+image: ./img/kniha.png
+backgroundSize: contain
+---
+
+## Martin Malý – Micro:bit krok za krokem
+
+https://knihy.nic.cz/cs/detail/25/
+
+ISBN: 978-80-88168-67-6
+
+---
+layout: image-right
 image: ./img/microbit.png
 backgroundSize: contain
 ---
