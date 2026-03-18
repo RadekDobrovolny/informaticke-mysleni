@@ -67,7 +67,7 @@ backgroundSize: contain
 
 ---
 layout: image-right
-image: ./img/kniha.png
+image: ./img/book.png
 backgroundSize: contain
 ---
 
