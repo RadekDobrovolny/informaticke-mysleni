@@ -33,7 +33,7 @@ layout: default
 - Seznámit se s pojmem **fyzické programování**
 - Představit **micro:bit** a jeho možnosti
 - Osahat si **micro:bit**
-- Vyzkoušet si první program
+- Vyzkoušet si první programy
 - Promyslet potenciál
 - Vibecoding s **micro:bitem**
 
@@ -51,7 +51,7 @@ backgroundSize: contain
 - světla, senzory, teploty
 - makerství, bastlení
 - roboti!
-- automatizace, chytrá domáctnost
+- automatizace, chytrá domácnost
 - interaktivní umění
 
 ---
@@ -83,7 +83,7 @@ image: ./img/microbit.png
 backgroundSize: contain
 ---
 
-## Úkol 1: demo time
+## Úkol 1: demo time (10 minut)
 
 - **micro:bit** deska
 - **USB kabel** pro připojení k počítači
@@ -129,21 +129,21 @@ https://makecode.microbit.org/
 
 - integrované vývojové prostředí
 - nahrání programu do zařízení
-- tutorialy
+- tutoriály
 - projekty
 
 ---
 
-## Úkol 2: tutoriál Pulzující srdce
+## Úkol 2: tutoriál Pulzující srdce (10 minut)
 
-- otevřete tutorial
+- otevřete tutoriál
 - zvolte možnost bloky
-- projděte tutorial do konce
+- projděte tutoriál do konce
 - nahrajte program
 
 ---
 
-## Úkol 3: nahrátí hotového programu
+## Úkol 3: nahrání hotového programu (5 minut)
 
 - Examples
 - Funny Voice Recorder
@@ -151,13 +151,23 @@ https://makecode.microbit.org/
 
 ---
 
-## Úkol 4: naprogramujte hrací kostku
+## Úkol 4: naprogramujte hrací kostku (15 minut)
 
 - vytvořte program, který po **zatřesení micro:bitem** vygeneruje číslo **1 až 6**
 - výsledek zobrazte na **LED displeji**
 - můžete zobrazit:
   - buď přímo číslo (snazší)
   - nebo tečky jako na skutečné kostce
+
+---
+
+## Úkol 5: rádio (15 minut)
+
+- pracujte ve dvou skupinách
+- vymyslete, co budete komunikovat
+- jedna skupina **přijímá vstup** (tlačítka, akcelerometr)
+- druhá skupina **zajišťuje výstup** (LED displej, zvuk)
+- komunikace probíhá po rádiovém signálu
 
 ---
 
@@ -173,28 +183,41 @@ https://python.microbit.org/
 
 ## vibecoding
 
-- Visual Studio Code
-- Codex / Copilot
+- **chat** / **agent**
+- Visual Studio Code, PyCharm
+- Claude Code / Codex / Copilot
+- **debugging**: pozorování a popis
 
 ---
 
-## Úkol 5: brainstorming
+## Úkol 6: brainstorming (10 + 10 minut)
 
 - v kontextu vaší předchozí práce v předmětu
-- přemýšlejte nad využitím **micro:bitu** jako o fyzickém artefaktu
+- přemýšlejte nad využitím **micro:bitu** jako fyzického artefaktu
 - jak ho zapojit?
-- více se vymýšlejte, než designujte (na to bude čas později)
+- více si vymýšlejte, než designujte (na to bude čas později)
 
 ---
 
-## Úkol 6: vibecoding
+## Úkol 7: vibecoding (10 minut)
 
-- krok za krokem
-- zkusme vytvořit nějaký fundament
+- zkuste vytvořit fundament
 - pravidelně testujte funkčnost
+- postupovat krok za krokem
+
+---
+
+## Další kroky
+
+- tutoriály, videa
+- **Hello World** (https://www.raspberrypi.org/hello-world)
+- **Official Raspberry Pi Magazine** (https://magazine.raspberrypi.com/issues)
+- rozšiřující kity a moduly
+- konzultace
 
 ---
 layout: end
 ---
 
 ## Díky za pozornost!
+## www.hippou.cz
