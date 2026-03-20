@@ -39,7 +39,7 @@ layout: default
 
 ---
 layout: image-right
-image: ./img/robot.png
+image: ./img/robot.webp
 backgroundSize: contain
 ---
 
@@ -67,7 +67,7 @@ backgroundSize: contain
 
 ---
 layout: image-right
-image: ./img/book.png
+image: ./img/book.webp
 backgroundSize: contain
 ---
 
@@ -79,7 +79,7 @@ ISBN: 978-80-88168-67-6
 
 ---
 layout: image-right
-image: ./img/microbit.png
+image: ./img/microbit.webp
 backgroundSize: contain
 ---
 
